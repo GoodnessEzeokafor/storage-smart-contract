@@ -1,0 +1,1 @@
+A simple smart contract showing the basics of solidity smart contract development
